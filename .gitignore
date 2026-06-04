@@ -1,0 +1,7 @@
+.env
+chroma_db/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+FINAL_PROJECT_SUMMARY.docx
+FINAL_PROJECT_SUMMARY.md
