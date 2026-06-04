@@ -189,6 +189,3 @@ Maximize your project grade with these 5 highly polished demonstration scenarios
 ## 🔮 Project Summary Conclusions
 
 By integrating programmatic tool-use with state-of-the-art vector similarity searching, **FinRAG NVIDIA** establishes a benchmark for robust financial analysis applications. It bridges the critical gap between conversational fluency and algebraic precision, offering a reliable, beautiful, and dynamic platform tailored for advanced financial research.
-
----
-*Developed with ❤️ for the Information Retrieval Academic Showcase, 2026.*
